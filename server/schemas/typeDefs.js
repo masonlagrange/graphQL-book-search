@@ -21,7 +21,6 @@ const typeDefs = gql`
         user: User
     }
     type Query {
-        user: (username: String!): User
         me: User
     }
     input bookInput {
