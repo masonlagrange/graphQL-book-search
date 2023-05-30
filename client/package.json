@@ -1,6 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "homepage": "https://graphql-google-book-search.herokuapp.com/",
   "private": true,
   "proxy": "http://localhost:8000",
   "dependencies": {
