@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "homepage": "https://graphql-google-book-search.herokuapp.com/",
   "private": true,
-  "proxy": "http://localhost:8000",
+  "proxy": "process.env.PORT",
   "dependencies": {
     "@apollo/client": "^3.5.8",
     "@testing-library/jest-dom": "^4.2.4",
