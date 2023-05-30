@@ -12,6 +12,6 @@ Navigate to the live deployment link and be greeted with a homepage asking you t
 
 ![image](https://github.com/masonlagrange/graphQL-book-search/assets/119389197/a56ec801-a477-4dff-9f37-15e711933854)
 
-###Link
+### Link
 
 [Live App](https://graphql-google-book-search.herokuapp.com/)
