@@ -12,7 +12,7 @@ import SavedBooks from './pages/SavedBooks';
 import Navbar from './components/Navbar';
 
 const httpLink = createHttpLink({
-  uri: '/graphql'
+  uri: process.env.MONGODB_URI
 })
 
 const authLink = setContext((_, { headers }) => {
